@@ -1,0 +1,3 @@
+# Personal Template
+
+- terminal setting
